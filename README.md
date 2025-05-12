@@ -8,9 +8,19 @@ proyectos y mis intereses.
 ## Información personal
 * Nombre: Andrés Layedra
 * Ocupación: Estudiante
-* Lugar de residencia: Guayaqui
-* Sitio web: 
+* Lugar de residencia: Guayaquil
+* Sitio web: https://github.com/Anlaye22/Anlaye22.git
+
 ## Proyectos
-* [Lista de tus proyectos]
+* Proyecto 1: [Nombre del proyecto 1]
+  * Descripción: [Descripción del proyecto 1]
+  * Enlace: [Enlace al proyecto 1]
+* Proyecto 2: [Nombre del proyecto 2]
+    * Descripción: [Descripción del proyecto 2]
+    * Enlace: [Enlace al proyecto 2]
+
 ## Intereses
-* [Lista de tus intereses]
+* Tecnología
+* Programación
+* Desarrollo web
+
