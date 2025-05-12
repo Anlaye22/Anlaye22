@@ -3,15 +3,13 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
-Nombre: Andrés Layedra
-
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Andrés Layedra
+* Ocupación: Estudiante
+* Lugar de residencia: Guayaqui
+* Sitio web: 
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
