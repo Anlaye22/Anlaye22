@@ -3,6 +3,8 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
+Nombre: Andrés Layedra
+
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
