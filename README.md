@@ -28,7 +28,7 @@ Bienvenido internauta, este es mi sitio personal donde puedes indagar un poco m√
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Analaye22&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anlaye22&layout=compact&theme=tokyonight)
 
 ## Proyectos
 
