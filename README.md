@@ -1,5 +1,6 @@
 # Mi sitio personal
 Bienvenido internauta, este es mi sitio personal donde puedes indagar un poco más sobre mí y los diferentes proyectos que he colaborado y/o creado. Si desea puede revisar toda mi trayectoria y ante cualquier oferta de proyecto de parte suya puede contactarme a mi correo. Sin más que decir disfrute de la historia de Andrés Layedra.
+
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
@@ -7,7 +8,8 @@ Bienvenido internauta, este es mi sitio personal donde puedes indagar un poco m�
 ## Información personal
 * Nombre: Andrés Layedra
 * Ocupación: Estudiante
-* Lugar de residencia: Guayaquil
+* Lugar de residencia: Guayaquil - Ecuador
+* Correo: andreslayedra8d@gmail.com
 * Sitio web: https://github.com/Anlaye22/Anlaye22.git
 
 ## Proyectos
