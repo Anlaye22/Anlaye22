@@ -31,16 +31,21 @@ Bienvenido internauta, este es mi sitio personal donde puedes indagar un poco m�
 
 ## Proyectos
 
-* Proyecto 1: Scrapper X
+* **Proyecto 1: Scrapper X**
 * Descripcion:
 * Link:
+
+* 
+
+* **Proyecto 2: Apolitor X**
+* Descripcion:
+* Link:
+
 
 * Proyecto 1: CarSpace
 * Descripción: Proyecto en colaboración con: [Mario Alvarado](https://github.com/m-alvaradox), [Yadira Suárez](https://github.com/YadiSuarez)
     
  -Plataforma creada en base a javzFX para una concecionaria de autos en la que los usuarios pueden comprar, reservar o consultar vehículos pertenecientes al negocio. Existen diferentes opciones para que el usuario pueda buscar en base de filtros de busqueda y una opción para agregarlo en un lista de fovoritos. También existe un ambiente para el admistrador perteneciente a al negocio para que pueda agregar, modificar o eliminar vehículos dentro de la plataforma.
-
- *
     
   * Enlace: https://github.com/m-alvaradox/CarSPACE
     
