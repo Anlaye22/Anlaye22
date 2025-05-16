@@ -5,6 +5,7 @@ Bienvenido internauta, este es mi sitio personal donde puedes indagar un poco m�
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
+  
 ## Información personal
 * Nombre: Andrés Layedra
 * Ocupación: Estudiante
@@ -12,15 +13,27 @@ Bienvenido internauta, este es mi sitio personal donde puedes indagar un poco m�
 * Correo: andreslayedra8d@gmail.com
 * Sitio web: https://github.com/Anlaye22/Anlaye22.git
 
+  ### Lenguajes y herramientas que he utilizado:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+</p>
+
+
 ## Proyectos
-__________________________________________________________
 
 * Proyecto 1: Scrapper X
 * Descripcion:
 * Link:
-* 
-
-
 
 * Proyecto 1: CarSpace
 * Descripción: Proyecto en colaboración con: [Mario Alvarado](https://github.com/m-alvaradox), [Yadira Suárez](https://github.com/YadiSuarez)
