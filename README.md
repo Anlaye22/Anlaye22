@@ -1,6 +1,5 @@
 # Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
+Bienvenido internauta, este es mi sitio personal donde puedes indagar un poco más sobre mí y los diferentes proyectos que he colaborado y/o creado. Si desea puede revisar toda mi trayectoria y ante cualquier oferta de proyecto de parte suya puede contactarme a mi correo. Sin más que decir disfrute de la historia de Andrés Layedra.
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
@@ -13,8 +12,9 @@ proyectos y mis intereses.
 
 ## Proyectos
 * Proyecto 1: CarSpace
-  * Descripción: Proyecto grupal con: [Mario Alvarado](https://github.com/m-alvaradox), [Yadira Suárez](https://github.com/YadiSuarez)
- Plataforma creada en base a javzFX para una concecionaria de autos en la que los usuarios pueden comprar, reservar o consultar vehículos pertenecientes al negocio. Existen diferentes opciones para que el usuario pueda buscar en base de filtros de busqueda y una opción para agregarlo en un lista de fovoritos. También existe un ambiente para el admistrador perteneciente a al negocio para que pueda agregar, modificar o eliminar vehículos dentro de la plataforma.
+  * Descripción: Proyecto en colaboración con: [Mario Alvarado](https://github.com/m-alvaradox), [Yadira Suárez](https://github.com/YadiSuarez)
+    
+ -Plataforma creada en base a javzFX para una concecionaria de autos en la que los usuarios pueden comprar, reservar o consultar vehículos pertenecientes al negocio. Existen diferentes opciones para que el usuario pueda buscar en base de filtros de busqueda y una opción para agregarlo en un lista de fovoritos. También existe un ambiente para el admistrador perteneciente a al negocio para que pueda agregar, modificar o eliminar vehículos dentro de la plataforma.
     
   * Enlace: https://github.com/m-alvaradox/CarSPACE
     
