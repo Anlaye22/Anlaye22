@@ -1,11 +1,14 @@
 # Mi sitio personal
 Bienvenido internauta, este es mi sitio personal donde puedes indagar un poco más sobre mí y los diferentes proyectos que he colaborado y/o creado. Si desea puede revisar toda mi trayectoria y ante cualquier oferta de proyecto de parte suya puede contactarme a mi correo. Sin más que decir disfrute de la historia de Andrés Layedra.
 
-## Contenido
-* [Información personal](#información-personal)
-* [Proyectos Destacados](#proyectos-destacados)
+## 📑 Contenido
+
+* [Información personal](#informacion-personal)
+* [Proyectos destacados](#proyectos-destacados)
+* [Dónde encontrarme](#donde-encontrarme)
 * [Intereses](#intereses)
 * [Objetivos](#objetivos)
+
   
 ## Información personal
 * Nombre: Andrés Layedra
