@@ -1,6 +1,17 @@
 # Mi sitio personal
 Bienvenido internauta, este es mi sitio personal donde puedes indagar un poco más sobre mí y los diferentes proyectos que he colaborado y/o creado. Si desea puede revisar toda mi trayectoria y ante cualquier oferta de proyecto de parte suya puede contactarme a mi correo. Sin más que decir disfrute de la historia de Andrés Layedra.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/andres-layedra-070425348/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/tuusuario/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+
+
 ## 📑 Contenido
 
 * [Información personal](#informacion-personal)
