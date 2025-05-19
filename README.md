@@ -3,12 +3,13 @@ Bienvenido internauta, este es mi sitio personal donde puedes indagar un poco mÃ
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andres-layedra-070425348/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Conecta en LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/tuusuario/" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ver en Instagram-DC2743?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
 
 
 
