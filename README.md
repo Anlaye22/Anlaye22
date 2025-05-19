@@ -3,8 +3,9 @@ Bienvenido internauta, este es mi sitio personal donde puedes indagar un poco m�
 
 ## Contenido
 * [Información personal](#información-personal)
-* [Proyectos](#ProyectosDestacados)
+* [Proyectos Destacados](#proyectos-destacados)
 * [Intereses](#intereses)
+* [Objetivos](#objetivos)
   
 ## Información personal
 * Nombre: Andrés Layedra
@@ -107,33 +108,25 @@ Proyecto de POO que replica funcionalidades similares a Google Fotos o el extint
 
 ---
 
-## 🧰 Tecnologías que uso frecuentemente
-
-`Java` · `Python` · `Flask` · `JavaScript` · `HTML` · `CSS`  
-`MySQL` · `MongoDB` · `Git` · `Scrapy` · `Pandas` · `OCR API`
-
----
-
 ## 📫 ¿Dónde encontrarme?
 
-- **LinkedIn:** [Andrés LinkedIn](https://www.linkedin.com/in/andres-layedra-070425348/)
+- **LinkedIn:** [linkedin.com/in/andres-layedra](https://www.linkedin.com/in/andres-layedra-070425348/)
 - **Correo:** andreslayedra8d@gmail.com
 - **GitHub:** [@Anlaye22](https://github.com/Anlaye22)
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Intereses
 
-![Anlaye22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anlaye22&show_icons=true&theme=react)
+- Automatización con Python y scraping de datos
+- Inteligencia Artificial y aprendizaje automático
+- Visualización de datos y dashboards interactivos
+- Desarrollo de proyectos colaborativos open-source
+- Tecnología aplicada a la educación y sostenibilidad
 
 ---
 
-## 🎯 Objetivos
+## 🌱 Objetivos
 
 Mi meta es seguir aprendiendo y aportando valor en proyectos que fusionen tecnología, datos y propósito. Siempre estoy abierto a colaborar y construir soluciones que marquen la diferencia.
-
-## Intereses
-* Tecnología
-* Programación
-* Desarrollo web
 
