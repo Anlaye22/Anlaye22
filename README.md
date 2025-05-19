@@ -15,7 +15,7 @@ Bienvenido internauta, este es mi sitio personal donde puedes indagar un poco m�
 
 ## 📑 Contenido
 
-* [Información personal](#informacion-personal)
+* [Información personal](#información-personal)
 * [Proyectos destacados](#proyectos-destacados)
 * [Intereses](#intereses)
 * [Objetivos](#objetivos)
