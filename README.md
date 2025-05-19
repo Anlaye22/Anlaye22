@@ -116,7 +116,7 @@ Proyecto de POO que replica funcionalidades similares a Google Fotos o el extint
 
 ## 📫 ¿Dónde encontrarme?
 
-- **LinkedIn:** [Andrés LinkedIn]([(https://www.linkedin.com/in/andres-layedra-070425348/))
+- **LinkedIn:** [Andrés LinkedIn](https://www.linkedin.com/in/andres-layedra-070425348/)
 - **Correo:** andreslayedra8d@gmail.com
 - **GitHub:** [@Anlaye22](https://github.com/Anlaye22)
 
