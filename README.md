@@ -32,32 +32,107 @@ Bienvenido internauta, este es mi sitio personal donde puedes indagar un poco m�
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anlaye22&layout=compact&theme=tokyonight)
 
-## Proyectos
+## 📂 Proyectos Destacados
 
-* **Proyecto 1: Scrapper X**
-* Descripcion:
-* Link:
+### 1. [Scrappers-X](https://github.com/Anlaye22/Scrappers-X)
+🕷️ **Scrapeo de datos automatizado**
 
-* 
+**Descripción:**  
+Herramienta desarrollada en Python para extraer información de sitios web públicos utilizando técnicas de scraping. Permite recolectar, procesar y exportar los datos en diferentes formatos.
 
-* **Proyecto 2: Apolitor X**
-* Descripcion:
-* Link:
+**Tecnologías:** `Python`, `Requests`, `BeautifulSoup`, `pandas`
 
+**Funcionalidades:**
+- Extracción automática desde sitios definidos
+- Limpieza y estructuración de datos
+- Exportación en CSV y JSON
 
-* Proyecto 1: CarSpace
-* Descripción: Proyecto en colaboración con: [Mario Alvarado](https://github.com/m-alvaradox), [Yadira Suárez](https://github.com/YadiSuarez)
-    
- -Plataforma creada en base a javzFX para una concecionaria de autos en la que los usuarios pueden comprar, reservar o consultar vehículos pertenecientes al negocio. Existen diferentes opciones para que el usuario pueda buscar en base de filtros de busqueda y una opción para agregarlo en un lista de fovoritos. También existe un ambiente para el admistrador perteneciente a al negocio para que pueda agregar, modificar o eliminar vehículos dentro de la plataforma.
-    
-  * Enlace: https://github.com/m-alvaradox/CarSPACE
-    
-* Proyecto 2: [Nombre del proyecto 2
-    * Descripción: [Descripción del proyecto 2]
-    * Enlace: [Enlace al proyecto 2]
- *Proyecto 3:
-    * Descripción: 
-    * Enlace: [Enlace al proyecto 2]
+---
+
+### 2. [LightItUp](https://github.com/FabricioLayedra/lightitup)
+💡 **Control inteligente de luces**
+
+**Descripción:**  
+Aplicación interactiva para manejar sistemas de iluminación desde el navegador. Diseñada para simular experiencias de control de luces inteligentes.
+
+**Tecnologías:** `HTML`, `CSS`, `JavaScript`, `DOM API`
+
+**Funcionalidades:**
+- Encendido/apagado de luces desde interfaz gráfica
+- Cambios de color y ambiente
+- Lógica de control por botones
+
+---
+
+### 3. [CarSPACE](https://github.com/m-alvaradox/CarSPACE)
+🚗 **Gestión de parqueaderos**
+
+**Descripción:**  
+Sistema desarrollado en Java para administrar espacios de estacionamiento en tiempo real. Permite visualizar disponibilidad, hacer reservas y generar reportes.
+
+**Tecnologías:** `Java`, `Java Swing`, `MySQL`
+
+**Funcionalidades:**
+- Gestión de usuarios y parqueos
+- Reservas de espacios
+- Reportes de uso
+
+---
+
+### 4. [APolitor](https://github.com/m-alvaradox/APolitor)
+🧹 **Organización de tareas de limpieza**
+
+**Descripción:**  
+Aplicación en Java para programar y monitorear tareas de mantenimiento y limpieza. Ideal para pequeñas empresas u organizaciones.
+
+**Tecnologías:** `Java`, `Java Swing`, `File I/O`
+
+**Funcionalidades:**
+- Registro de tareas programadas
+- Asignación de personal
+- Seguimiento de cumplimiento
+
+---
+
+### 5. [BibleSPACE](https://github.com/m-alvaradox/BibleSPACE)
+📷 **Gestor personal de fotografías con reconocimiento**
+
+**Descripción:**  
+Proyecto de POO que replica funcionalidades similares a Google Fotos o el extinto Picasa. Permite gestionar una colección de fotos personales con detalles y álbumes.
+
+**Tecnologías:** `Java`, `JavaFX`, `File Handling`
+
+**Funcionalidades:**
+- Organización de imágenes en álbumes
+- Etiquetado de personas en fotos
+- Exploración interactiva de la biblioteca
+
+---
+
+## 🧰 Tecnologías que uso frecuentemente
+
+`Java` · `Python` · `Flask` · `JavaScript` · `HTML` · `CSS`  
+`MySQL` · `MongoDB` · `Git` · `Scrapy` · `Pandas` · `OCR API`
+
+---
+
+## 📫 ¿Dónde encontrarme?
+
+- **LinkedIn:** [linkedin.com/in/anlaye22](https://linkedin.com/in/anlaye22)
+- **Correo:** anaylayedra22@gmail.com
+- **GitHub:** [@Anlaye22](https://github.com/Anlaye22)
+
+---
+
+## 📊 GitHub Stats
+
+![Anlaye22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anlaye22&show_icons=true&theme=react)
+
+---
+
+## 🎯 Objetivos
+
+Mi meta es seguir aprendiendo y aportando valor en proyectos que fusionen tecnología, datos y propósito. Siempre estoy abierto a colaborar y construir soluciones que marquen la diferencia.
 
 ## Intereses
 * Tecnología
