@@ -46,7 +46,7 @@ Bienvenido internauta, este es mi sitio personal donde puedes indagar un poco m�
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anlaye22&layout=compact&theme=tokyonight)
 
-## Proyectos Destacados
+## Proyectos Destacados 🗂️
 
 ### 1. [Scrappers-X](https://github.com/Anlaye22/Scrappers-X)
 🕷️ **Scrapeo de datos automatizado**
@@ -124,7 +124,7 @@ Proyecto de POO que replica funcionalidades similares a Google Fotos o el extint
 
 ---
 
-## 🎯 Intereses
+## Intereses 🎯 
 
 - Automatización con Python y scraping de datos
 - Inteligencia Artificial y aprendizaje automático
@@ -134,7 +134,7 @@ Proyecto de POO que replica funcionalidades similares a Google Fotos o el extint
 
 ---
 
-## 🌱 Objetivos
+## Objetivos  🌱 
 
 Mi meta es seguir aprendiendo y aportando valor en proyectos que fusionen tecnología, datos y propósito. Siempre estoy abierto a colaborar y construir soluciones que marquen la diferencia.
 
