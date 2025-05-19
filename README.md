@@ -1,5 +1,8 @@
 # Mi sitio personal
-Bienvenido internauta, este es mi sitio personal donde puedes indagar un poco más sobre mí y los diferentes proyectos que he colaborado y/o creado. Si desea puede revisar toda mi trayectoria y ante cualquier oferta de proyecto de parte suya puede contactarme a mi correo. Sin más que decir disfrute de la historia de Andrés Layedra.
+¡Hola! Gracias por visitar mi espacio personal.
+Este sitio reúne experiencias, proyectos y conocimientos que he ido desarrollando a lo largo de mi formación y práctica profesional. Cada proyecto aquí refleja no solo una habilidad técnica, sino también una historia de aprendizaje, trabajo en equipo y curiosidad constante.
+Creo firmemente en la colaboración como motor de innovación, por eso siempre estoy abierto a explorar nuevas ideas, compartir conocimientos o construir soluciones junto a otros.
+Te invito a explorar mi trabajo y, si surge la oportunidad, conectar para crear algo juntos.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andres-layedra-070425348/" target="_blank">
