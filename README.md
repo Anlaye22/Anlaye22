@@ -3,15 +3,13 @@ Bienvenido internauta, este es mi sitio personal donde puedes indagar un poco m�
 
 ## Contenido
 * [Información personal](#información-personal)
-* [Proyectos](#proyectos)
+* [Proyectos](#ProyectosDestacados)
 * [Intereses](#intereses)
   
 ## Información personal
 * Nombre: Andrés Layedra
 * Ocupación: Estudiante
 * Lugar de residencia: Guayaquil - Ecuador
-* Correo: andreslayedra8d@gmail.com
-* Sitio web: https://github.com/Anlaye22/Anlaye22.git
 
   ### Lenguajes y herramientas que he utilizado:
 
@@ -118,8 +116,8 @@ Proyecto de POO que replica funcionalidades similares a Google Fotos o el extint
 
 ## 📫 ¿Dónde encontrarme?
 
-- **LinkedIn:** [linkedin.com/in/anlaye22](https://linkedin.com/in/anlaye22)
-- **Correo:** anaylayedra22@gmail.com
+- **LinkedIn:** [Andrés LinkedIn]([(https://www.linkedin.com/in/andres-layedra-070425348/))
+- **Correo:** andreslayedra8d@gmail.com
 - **GitHub:** [@Anlaye22](https://github.com/Anlaye22)
 
 ---
