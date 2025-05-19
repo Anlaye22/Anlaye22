@@ -58,76 +58,69 @@ Herramienta desarrollada en Python para extraer información de sitios web públ
 
 **Funcionalidades:**
 - Extracción automática desde sitios definidos
-- Limpieza y estructuración de datos
 - Exportación en CSV y JSON
 
 ---
 
-### 2. [LightItUp](https://github.com/FabricioLayedra/lightitup)
-💡 **Control inteligente de luces**
+
+### 2. [CarSPACE](https://github.com/m-alvaradox/CarSPACE)
+🚗 **Plataforma de Gestión para Concesionaria**
 
 **Descripción:**  
-Aplicación interactiva para manejar sistemas de iluminación desde el navegador. Diseñada para simular experiencias de control de luces inteligentes.
+Es un un proyecto realizado en colaboración de [Yadira Suarez](https://github.com/YadiSuarez) y [Mario Alvarado](https://github.com/m-alvaradox) 
 
-**Tecnologías:** `HTML`, `CSS`, `JavaScript`, `DOM API`
+Se diseñaron e implementaron múltiples funcionalidades inspiradas en plataformas de venta de autos como Patiotuerca y CarGurus. El sistema permite a los usuarios buscar vehículos aplicando distintos filtros, ya que cada automóvil cuenta con información detallada como:
+
++ Precio
++ Marca, modelo, año y kilometraje
++ Especificaciones técnicas (motor, transmisión, peso)
++ Ubicación actual del vehículo
++ Historial de accidentes, servicios de reparación y mantenimiento (como cambios de aceite o filtros)
+
+
+**Tecnologías:** `Java`, `Java FX`
 
 **Funcionalidades:**
-- Encendido/apagado de luces desde interfaz gráfica
-- Cambios de color y ambiente
-- Lógica de control por botones
+- Creación de vehículos
+- Busquedas por filtros
+- Gestión de vehículos registrados
 
 ---
 
-### 3. [CarSPACE](https://github.com/m-alvaradox/CarSPACE)
-🚗 **Gestión de parqueaderos**
+### 3. [APolitor](https://github.com/m-alvaradox/APolitor)
 
-**Descripción:**  
-Sistema desarrollado en Java para administrar espacios de estacionamiento en tiempo real. Permite visualizar disponibilidad, hacer reservas y generar reportes.
 
-**Tecnologías:** `Java`, `Java Swing`, `MySQL`
+🔮 **Adivinador de Palabras**
+
+**Descripción:**
+Es un un proyecto realizado en colaboración de [Yadira Suarez](https://github.com/YadiSuarez) y [Mario Alvarado](https://github.com/m-alvaradox)
+
+Programa en Java con el obejetivo de adivinar las palabras en base a una categoría de selección del ususario. Se hizo uso de la estructura de árboles binarios con la busqueda binaria con respuestas sí o no de parte del usuario para guiar a la computadora a adivinar la palabra que pensaba el usuario.
+
+
+**Tecnologías:** `Java`, `Java FX`
 
 **Funcionalidades:**
-- Gestión de usuarios y parqueos
-- Reservas de espacios
-- Reportes de uso
+- Creación de categoría de palabras
+- Sistema de retroalimentación
+- Adivicación algorítmica de palabras
 
 ---
 
-### 4. [APolitor](https://github.com/m-alvaradox/APolitor)
-🧹 **Organización de tareas de limpieza**
-
-**Descripción:**  
-Aplicación en Java para programar y monitorear tareas de mantenimiento y limpieza. Ideal para pequeñas empresas u organizaciones.
-
-**Tecnologías:** `Java`, `Java Swing`, `File I/O`
-
-**Funcionalidades:**
-- Registro de tareas programadas
-- Asignación de personal
-- Seguimiento de cumplimiento
-
----
-
-### 5. [BibleSPACE](https://github.com/m-alvaradox/BibleSPACE)
+### 4. [BibleSPACE](https://github.com/m-alvaradox/BibleSPACE)
 📷 **Gestor personal de fotografías con reconocimiento**
 
-**Descripción:**  
+**Descripción:**
+Es un un proyecto realizado en colaboración de [Austin Estrella](https://github.com/starAus20) y [Mario Alvarado](https://github.com/m-alvaradox)
+
 Proyecto de POO que replica funcionalidades similares a Google Fotos o el extinto Picasa. Permite gestionar una colección de fotos personales con detalles y álbumes.
 
-**Tecnologías:** `Java`, `JavaFX`, `File Handling`
+**Tecnologías:** `Java`, `JavaFX`
 
 **Funcionalidades:**
 - Organización de imágenes en álbumes
 - Etiquetado de personas en fotos
 - Exploración interactiva de la biblioteca
-
----
-
-## 📫 ¿Dónde encontrarme?
-
-- **LinkedIn:** [linkedin.com/in/andres-layedra](https://www.linkedin.com/in/andres-layedra-070425348/)
-- **Correo:** andreslayedra8d@gmail.com
-- **GitHub:** [@Anlaye22](https://github.com/Anlaye22)
 
 ---
 
