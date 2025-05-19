@@ -46,7 +46,7 @@ Bienvenido internauta, este es mi sitio personal donde puedes indagar un poco m�
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anlaye22&layout=compact&theme=tokyonight)
 
-## 📂 Proyectos Destacados
+## Proyectos Destacados
 
 ### 1. [Scrappers-X](https://github.com/Anlaye22/Scrappers-X)
 🕷️ **Scrapeo de datos automatizado**
