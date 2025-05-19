@@ -23,6 +23,7 @@ Bienvenido internauta, este es mi sitio personal donde puedes indagar un poco m�
 
   
 ## Información personal
+
 * Nombre: Andrés Layedra
 * Ocupación: Estudiante
 * Lugar de residencia: Guayaquil - Ecuador
